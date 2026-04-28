@@ -50,3 +50,16 @@ The system separates core functionalities into independent services and uses an 
 git clone https://github.com/your-username/fulfillment-order-inventory-microservices.git
 cd fulfillment-order-inventory-microservices
 docker-compose up
+
+## 📌 Key Concepts
+
+- Microservices Architecture
+- API Gateway Pattern
+- RESTful API Design
+- Service-to-Service Communication
+
+## 📈 Future Improvements
+
+- Implement authentication with JWT
+- Introduce message queue (RabbitMQ / Kafka) for async communication
+- Apply database per service pattern
